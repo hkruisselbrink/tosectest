@@ -13,8 +13,8 @@ The main documentation for the site is organized into a couple sections:
    :maxdepth: 2
    :caption: Introduction
    
-   introduction/getting_started
-   introduction/components
+   ../docs/introduction/getting_started
+   ../docs/introduction/components
    
 .. _samples:
    
@@ -22,12 +22,12 @@ The main documentation for the site is organized into a couple sections:
 	:maxdepth: 2
    :caption: Sample Projects
    
-   samples/samples
+   ../docs/samples/samples
    
 .. _api:
    
 .. toctree::
    :caption: API
    
-   api/api
+   ../docs/api/api
 
