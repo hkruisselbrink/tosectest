@@ -17,7 +17,7 @@ The main documentation for the site is organized into a couple sections :
    introduction/components
    
 .. _samples:
-   
+
 .. toctree::
 	:maxdepth: 2
    :caption: Sample Projects
@@ -26,9 +26,9 @@ The main documentation for the site is organized into a couple sections :
    samples/sample1
    samples/sample2
    samples/sample3
-   
+
 .. _api:
-   
+
 .. toctree::
    :caption: API
    
