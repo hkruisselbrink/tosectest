@@ -17,6 +17,7 @@ Welcome to Read the Docs Template's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Overzicht
+   
    getting_started
    
 .. _samples:
@@ -24,12 +25,14 @@ Welcome to Read the Docs Template's documentation!
 .. toctree::
 	:maxdepth: 2
    :caption: Samples
+   
    samples
    
 .. _api:
    
 .. toctree::
    :caption: API
+   
    api
 
 Indices and tables
