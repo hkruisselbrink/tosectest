@@ -12,7 +12,14 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   :caption: Overzicht
+   getting started
+   
+   :caption: Samples
+   samples
+   
+   :caption: API
+   api
 
 
 
