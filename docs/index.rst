@@ -5,26 +5,27 @@
    
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`overzicht`
+* :ref:`getting_started`
 * :ref:`samples`
 * :ref:`api`
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-.. _overzicht:
+.. _getting_started:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Overzicht
+   :caption: Getting Started
    
-   getting_started
+   introduction
+   components
    
 .. _samples:
    
 .. toctree::
 	:maxdepth: 2
-   :caption: Samples
+   :caption: Sample Projects
    
    samples
    
