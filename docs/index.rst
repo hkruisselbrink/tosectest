@@ -10,18 +10,17 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
-
    :caption: Overzicht
-   getting started
+   getting_started
    
+.. toctree::
+	:maxdepth: 2
    :caption: Samples
    samples
    
+.. toctree::
    :caption: API
    api
-
-
 
 Indices and tables
 ==================
