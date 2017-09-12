@@ -22,12 +22,18 @@ The main documentation for the site is organized into a couple sections :
 	:maxdepth: 2
    :caption: Sample Projects
    
-   samples/samples
+   samples/about_samples
+   samples/sample1
+   samples/sample2
+   samples/sample3
    
 .. _api:
    
 .. toctree::
    :caption: API
    
-   api/api
+   eff/measurement
+   eff/ar
+   eff/math
+   eff/easyio
 
