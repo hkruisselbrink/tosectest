@@ -3,7 +3,7 @@ Welcome to Easy Flexible Framework
 
 The main documentation for the site is organized into a couple sections :
 
-* :ref:`introduction`
+* :ref:`documentation`
 * :ref:`samples`
 * :ref:`api`
 
@@ -11,10 +11,12 @@ The main documentation for the site is organized into a couple sections :
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction
+   :caption: Documentation
    
-   introduction/getting_started
-   introduction/components
+   documentation/introduction
+   documentation/getting_started
+   documentation/components
+   documentation/license
    
 .. _samples:
 

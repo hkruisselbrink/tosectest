@@ -1,6 +1,5 @@
 Getting Started
 ===============
-
 EFF stands for EasyFlexibleFramework.
 
 It is an event based framework combined with QObject wrappings use to create an extensible application platform in C++. 
