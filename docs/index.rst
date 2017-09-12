@@ -3,17 +3,17 @@ Welcome to Easy Flexible Framework
 
 The main documentation for the site is organized into a couple sections:
 
-* :ref:`getting-started`
+* :ref:`introduction`
 * :ref:`samples`
 * :ref:`api`
 
-.. _getting-started:
+.. _introduction:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting Started
+   :caption: Introduction
    
-   introduction
+   getting_started
    components
    
 .. _samples:
