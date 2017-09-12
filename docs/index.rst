@@ -1,7 +1,7 @@
 Welcome to Easy Flexible Framework
 ==================================================
 
-The main documentation for the site is organized into a couple sections:
+The main documentation for the site is organized into a couple sections :
 
 * :ref:`introduction`
 * :ref:`samples`
