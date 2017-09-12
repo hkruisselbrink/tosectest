@@ -19,7 +19,7 @@ The main documentation for the site is organized into a couple sections :
 .. _samples:
 
 .. toctree::
-	:maxdepth: 2
+   :maxdepth: 2
    :caption: Sample Projects
    
    samples/about_samples
