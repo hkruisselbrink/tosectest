@@ -15,7 +15,6 @@ The main documentation for the site is organized into a couple sections :
    
    documentation/introduction
    documentation/getting_started
-   documentation/components
    documentation/license
    
 .. _samples:

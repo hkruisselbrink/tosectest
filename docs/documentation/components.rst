@@ -1,4 +1,0 @@
-EFF Components
-==============
-
-EFF components!
